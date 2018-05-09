@@ -8,10 +8,10 @@
       <version>1.0.1-SNAPSHOT</version>
   </parent>
 
-  <artifactId>AsteroidNBModules-branding</artifactId>
+  <artifactId>AsteroidSpring-branding</artifactId>
   <packaging>nbm</packaging>
 
-  <name>AsteroidNBModules-branding</name>
+  <name>AsteroidSpring-branding</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
